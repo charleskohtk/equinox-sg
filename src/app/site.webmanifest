@@ -1,0 +1,20 @@
+{
+    "name": "Equinox-Singapore",
+    "short_name": "Equinox",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#cccccc",
+    "description": "Generating Excellent Products",
+    "icons": [
+        {
+            "src": "/icon-192.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "/icon-512.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ]
+}

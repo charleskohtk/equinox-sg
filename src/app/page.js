@@ -41,8 +41,12 @@ export default function Home() {
 
       <div className="mb-52 grid text-center lg:w-full lg:mb-0 lg:text-center mx-auto">
 
-          <p className={`text-base opacity-80`}>
+      <p className='text-[22px] text-slate-700 mt-10'>
             Coming Soon...
+          </p>
+
+          <p className='text-[12px] text-slate-400 mt-10'>
+          © 2023 EQUINOX
           </p>
         
       </div>
